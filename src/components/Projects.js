@@ -19,7 +19,7 @@ const Projects = () => {
 
         {
             title: "Sistema de login da eretec2022",
-            description: "contruido com php e SQL",
+            description: "construido com php e SQL",
             imgUrl:  projImg2,
         },
 
